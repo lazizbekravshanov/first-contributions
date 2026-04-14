@@ -73,7 +73,7 @@ user.email=youremail@domain.com
 
 # Persist Git Credentials
 
-By default, Git will keep asking you for your details everytime you want to push to a remote repo.
+By default, Git will keep asking you for your details every time you want to push to a remote repo.
 In Git, you can configure the caching of your credentials to avoid entering your username and password repeatedly. There are a couple of methods to achieve this:
 
 1. Credential caching: Git provides a credential caching system that can store your credentials in memory for a specified period. This way, you don't have to re-enter your details every time you interact with a remote repository.
@@ -96,7 +96,7 @@ $ git config --global credential.helper 'cache --timeout=3600'
 2. Credential Storing: This sets Git's credential helper to "store". When using this credential helper, Git will store the credentials for a remote repository in a plain-text file on disk. This method is the simplest but least secure option for credential storage.
 
 ```shell
-$ git config --global crednetial.helper store
+$ git config --global credential.helper store
 ```
 
 With the store credential helper, the credentials entered for a remote repository will be stored permanently in a file located at ~/.git-credentials on Linux or macOS, or %USERPROFILE%\.git-credentials on Windows. The credentials will be stored in plain text format, which means they are readable if someone gains access to the file.

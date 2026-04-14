@@ -13,7 +13,7 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 If you don't have GitHub Desktop on your machine, [install it](https://desktop.github.com/).
 
-If you're using a version of GitHub desktop before 1.0, [refer to this tutorial](github-desktop-old-version-tutorial.md).
+If you're using a version of GitHub Desktop before 1.0, [refer to this tutorial](github-desktop-old-version-tutorial.md).
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
 
@@ -44,7 +44,7 @@ After that another dialogue box that says 'How are you planning to use this fork
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/repository-clone-purpose.png" alt="Use of repository" height="500" />
 
-Now you have copied the contents of the first-contributions repository in github to your computer.
+Now you have copied the contents of the first-contributions repository on GitHub to your computer.
 
 ## Create a branch
 
@@ -62,9 +62,9 @@ Click on `Create branch`
 
 Now, go to history tab and open `Contributors.md` file in a text editor by right clicking and open in text editor. Scroll to the bottom of the page and add your name to it, then save the file.
 
-Example: If your name is James Smith, It should look like this.
+Example: If your name is James Smith, it should look like this.
 
-\[James Smith](https://github.com/jamessmith)
+`[James Smith](https://github.com/jamessmith)`
 
 You can see that there are changes to Contributors.md and they have been added to the Github Desktop.
 
@@ -84,11 +84,11 @@ At the bottom, you can see that the commit has been created.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit2.png" alt="commit your changes" />
 
-## Push changes to github
+## Push changes to GitHub
 
 Click on File->Options and sign-in to Github.com. Type in your Github username and password.
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-sign-in.png" alt="log-in to Github" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-sign-in.png" alt="log-in to GitHub" />
 
 Click the `Publish` button on the top right.
 
@@ -96,7 +96,7 @@ Click the `Publish` button on the top right.
 
 ## Submit your changes for review
 
-If you go to your repository on github, you'll see `Compare & pull request` button. click on that button.
+If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/compare-and-pull.png" alt="create a pull request" />
 
@@ -110,7 +110,7 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io#social-share).
+Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 

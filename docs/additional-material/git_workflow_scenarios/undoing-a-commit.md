@@ -16,7 +16,7 @@ Example of ```git reset``` usage
 # Make changes in index.php and tutorial.php
 # Add files into the staging area
 $ git add .
-# Remembered both files need to be committed separately
+# Remember: the two files need to be committed separately
 # Unstage tutorial.php
 $ git reset tutorial.php
 # Commit index.php first
@@ -47,7 +47,7 @@ $ git commit -m "Started a crazy dev"
 $ git add .
 $ git commit -m "Continued dev"
 # Tested and things went out of hand
-# Decided to remove the whole things
+# Decided to remove the whole thing
 $ git reset --hard HEAD~2
 ```
 The ```git reset --hard HEAD~2``` moves the current branch backward by 2 commit points at the same time reverting all changes you have made and remove the 2 snapshots we have just created from project history.

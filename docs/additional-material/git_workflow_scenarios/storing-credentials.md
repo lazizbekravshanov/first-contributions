@@ -10,7 +10,7 @@ We will be covering one of the methods available to us - [git credential cache](
 
 We can use git credential cache to store our username and password.
 
-**Attention:** This method saves the credentials in *plaintext* on your PC's disk. Everyone on your computer can access it, e.g. malicious NPM modules.
+**Attention:** `credential.helper cache` keeps credentials in memory only (not on disk) and discards them after a timeout. If you want persistent storage, `credential.helper store` is available but writes the credentials in *plaintext* to your PC's disk where anyone with filesystem access can read them — consider a system credential manager (macOS Keychain, Windows Credential Manager, `libsecret` on Linux) instead.
 
 ### Global Credential Cache
 
