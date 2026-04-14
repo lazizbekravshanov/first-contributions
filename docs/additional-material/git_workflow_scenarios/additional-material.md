@@ -14,6 +14,10 @@ This document explains how to review a branch's (or file's) commit history with 
 This document explains how to use `git cherry-pick` to copy a single commit (or a range of commits) from one branch to another without merging the rest of the branch, and how to resolve conflicts that arise.
 > Use this when you need one specific commit on your branch — e.g. a hotfix — without bringing along everything else.
 
+### [Common mistakes and how to fix them](common-mistakes-and-how-to-fix-them.md)
+A short FAQ for the things that go wrong most often for first-time contributors — wrong-branch commits, typo'd commit messages, PRs with merge conflicts, accidentally-committed secrets, rejected pushes, and how to recover from `git reset --hard` with the reflog.
+> Start here when something has gone wrong and you want the quickest safe fix.
+
 ### [Configuring git](configuring-git.md)
 This document provides information about how to configure user details and other options in git.
 > Use this to better control your git configurations.
