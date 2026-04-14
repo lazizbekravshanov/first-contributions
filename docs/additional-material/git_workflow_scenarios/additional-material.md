@@ -73,6 +73,10 @@ This document provides information about how to resolve merge conflicts.
 This document provides information about how to revert a commit on the remote repository. It will come in handy in case you need to undo a commit that has already been pushed to Github.
 > Take these steps if you want to reverse a commit.
 
+### [Signing your commits](signing-commits.md)
+This document walks through signing commits with SSH (the simpler, modern path) or GPG so they show up with the green Verified badge on GitHub.
+> Use this when a project requires signed commits, or when you want to prove a commit really came from you.
+
 ### [Squashing Commits](squashing-commits.md)
 This document provides information about how to squash commits with an interactive rebase.
 > Use this if you want to open a PR in an open source project and the reviewer asks you to squash every commit into one, with an informative commit message.
