@@ -6,6 +6,10 @@ We assume that you have already finished with the basic tutorial before coming h
 This document provides information about how to amend a commit on the remote repository. Amending a commit is a way to modify the most recent commit you have made in your current branch. This can be helpful if you need to edit the commit message or if you forgot to include changes in the commit. You can continue to amend a commit until you push it to the remote repository.
 > Use this when you need to adjust a commit you made.
 
+### [Cherry-picking a commit](cherry-picking.md)
+This document explains how to use `git cherry-pick` to copy a single commit (or a range of commits) from one branch to another without merging the rest of the branch, and how to resolve conflicts that arise.
+> Use this when you need one specific commit on your branch — e.g. a hotfix — without bringing along everything else.
+
 ### [Configuring git](configuring-git.md)
 This document provides information about how to configure user details and other options in git.
 > Use this to better control your git configurations.
