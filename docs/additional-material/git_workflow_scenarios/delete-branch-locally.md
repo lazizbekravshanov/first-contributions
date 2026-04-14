@@ -13,7 +13,7 @@ git branch --delete --force <branch_name>  # Same as -D
 ```
 
 ```
-git branch --delete  <branch_name>         # Error on unmerge
+git branch --delete  <branch_name>         # Errors if the branch is unmerged
 ```
 
--D stands for --delete --force which will delete the branch even it's not merged (force delete), but you can also use -d which stands for --delete which throws an error respective of the branch merge status...
+`-D` is shorthand for `--delete --force`, which deletes the branch even if it has unmerged changes. `-d` (shorthand for `--delete`) refuses to delete a branch that still has unmerged commits, so you don't lose work by accident.
