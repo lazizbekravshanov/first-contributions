@@ -6,6 +6,10 @@ We assume that you have already finished with the basic tutorial before coming h
 This document provides information about how to amend a commit on the remote repository. Amending a commit is a way to modify the most recent commit you have made in your current branch. This can be helpful if you need to edit the commit message or if you forgot to include changes in the commit. You can continue to amend a commit until you push it to the remote repository.
 > Use this when you need to adjust a commit you made.
 
+### [Common mistakes and how to fix them](common-mistakes-and-how-to-fix-them.md)
+A short FAQ for the things that go wrong most often for first-time contributors — wrong-branch commits, typo'd commit messages, PRs with merge conflicts, accidentally-committed secrets, rejected pushes, and how to recover from `git reset --hard` with the reflog.
+> Start here when something has gone wrong and you want the quickest safe fix.
+
 ### [Configuring git](configuring-git.md)
 This document provides information about how to configure user details and other options in git.
 > Use this to better control your git configurations.
