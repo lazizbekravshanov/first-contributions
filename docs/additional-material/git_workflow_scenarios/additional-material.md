@@ -29,6 +29,10 @@ This document explains what a .gitignore file does, why to use it and how to cre
 This document explains the difference between `git branch -d` and `git branch -D` and how to safely delete a local branch.
 > Use this when you no longer need a local branch.
 
+### [Finding a bug with git bisect](finding-a-bug-with-bisect.md)
+This document explains how to use `git bisect` to binary-search through commit history and pinpoint the exact commit that introduced a bug, including how to skip untestable commits and automate the search with `git bisect run`.
+> Use this when something used to work and you need to find the commit that broke it.
+
 ### [Git Flow](gitflow.md)
 This document explains the Gitflow branching model — long-lived `develop` and `master` branches, feature/release/hotfix branches — and discusses when it is (and isn't) a good fit for a project.
 > Read this if you want a structured release workflow for a larger project.
