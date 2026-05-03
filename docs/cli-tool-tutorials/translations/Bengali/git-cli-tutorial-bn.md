@@ -114,7 +114,7 @@ GitHub এ আপনার রিপোজিটরিতে গেলে Compar
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/submit-pull-request.png" alt="পুল রিকোয়েস্ট জমা দিন" />
 
-শীঘ্রই আপনার পরিবর্তনগুলো মূল রিপোজিটরির master ব্রাঞ্চে মার্জ হয়ে যাবে। পরিবর্তন মার্জ হলে ইমেইলে নোটিফিকেশন পাবেন।
+শীঘ্রই আপনার পরিবর্তনগুলো মূল রিপোজিটরির main ব্রাঞ্চে মার্জ হয়ে যাবে। পরিবর্তন মার্জ হলে ইমেইলে নোটিফিকেশন পাবেন।
 
 এরপর কী করবেন?
 
