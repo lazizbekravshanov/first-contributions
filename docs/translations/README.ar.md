@@ -136,7 +136,7 @@ git push origin "add-your-name"
  <div dir="rtl">الخطوة الأولى، انتقل إلى الفرع الرئيسي.</div>
 
 ```bash
-git checkout master
+git checkout main
 ```
 
  <div dir="rtl">ثانياً، أضف رابط مشروعي كـ<code>upstream remote url</code>.</div>
@@ -156,13 +156,13 @@ git fetch upstream
 <div dir="rtl">هنا سنقوم بسحب جميع التغييرات من <code>(upstream remote)</code>. والآن، عليك أن تدمج التحديثات الجديدة من فرعي إلى فرعك الرئيسي.</div>
 
 ```bash
-git rebase upstream/master
+git rebase upstream/main
 ```
 
 <div dir="rtl">وهنا تطبق التغييرات إلى الفرع الرئيسي. إذا رفعت التغييرات لفرعك الرئيسي سيتم تحديث مشروعك</div>
 
 ```bash
-git push origin master
+git push origin main
 ```
 
 <div dir="rtl">لاحظ أنك ترفع إلى <code>remote</code> اسمه <code>origin</code>.</div>

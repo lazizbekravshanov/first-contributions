@@ -114,7 +114,7 @@ Verstuur nu je pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="verstuur je pull request" />
 
-Nu ga ik (de beheerder) al je wijzigingen mergen in de master branch van dit project. Als de veranderingen gemerged zijn, zul je hier een e-mailnotificatie over ontvangen.
+Nu ga ik (de beheerder) al je wijzigingen mergen in de main branch van dit project. Als de veranderingen gemerged zijn, zul je hier een e-mailnotificatie over ontvangen.
 
 ## Hoe nu verder?
 

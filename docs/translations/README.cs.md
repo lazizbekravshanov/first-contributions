@@ -104,7 +104,7 @@ Teď vytvořte žádost o přetažení vaší větve do originálního repozitá
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme//submit-pull-request.png" alt="potvrďte pull request" />
 
-Brzy budou správci provádět zapracování vašich změn do hlavní (anglicky *master*) větve tohoto projektu. Až se do ní vaše změny dostanou, dostanete e-mailové upozornění.
+Brzy budou správci provádět zapracování vašich změn do hlavní (anglicky *main*) větve tohoto projektu. Až se do ní vaše změny dostanou, dostanete e-mailové upozornění.
 
 ## Kam dále?
 

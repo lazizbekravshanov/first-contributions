@@ -95,7 +95,7 @@ Agora crea e envía a pull request:
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="sube a pull request" />
 
-Axiña mesturarei os teus cambios (facendo *merge*) na master branch deste proxecto. Recibirás unha notificación por correo cando os cambios xa estean mesturados.
+Axiña mesturarei os teus cambios (facendo *merge*) na main branch deste proxecto. Recibirás unha notificación por correo cando os cambios xa estean mesturados.
 
 ### [ Material adicional ](../additional-material/git_workflow_scenarios/additional-material.md)
 

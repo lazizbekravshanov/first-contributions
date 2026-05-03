@@ -107,7 +107,7 @@ Ahora mandá la _pull request_.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="enviar la pull request" />
 
-Dentro de poco voy a estar fusionando tus cambios (haciendo merge) con la rama master de este proyecto. Te va a llegar un correo cuando los cambios estén fusionados.
+Dentro de poco voy a estar fusionando tus cambios (haciendo merge) con la rama main de este proyecto. Te va a llegar un correo cuando los cambios estén fusionados.
 
 ## ¿Y ahora qué sigue?
 

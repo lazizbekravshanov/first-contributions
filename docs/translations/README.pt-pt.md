@@ -85,7 +85,7 @@ Agora envia um Pull Request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Envia um pull request" />
 
-Quando puder incorporarei as tuas mudanças no Branch principal (master) deste projeto. Vais receber um e-mail de notificação quando as alterações forem incorporadas.
+Quando puder incorporarei as tuas mudanças no Branch principal (main) deste projeto. Vais receber um e-mail de notificação quando as alterações forem incorporadas.
 
 ## Para onde ir a partir daqui?
 

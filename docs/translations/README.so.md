@@ -132,7 +132,7 @@ Hadda soo gudbi codsiga jiidista (pull request).
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Sawir muujinaya badhanka lagu gudbiyo pull request‑ka" />
 
-Dhawaan waxaan ku dari doonaa dhammaan isbeddelladaada laanta ugu weyn ee mashruucan (master). Waxaad heli doontaa iimayl ogeysiin ah marka isbeddelada la isku daro.
+Dhawaan waxaan ku dari doonaa dhammaan isbeddelladaada laanta ugu weyn ee mashruucan (main). Waxaad heli doontaa iimayl ogeysiin ah marka isbeddelada la isku daro.
 
 ## Halkee laga aadaa halkan?
 

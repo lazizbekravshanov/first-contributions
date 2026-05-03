@@ -224,7 +224,7 @@ Sada pošaljite pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pošalji pull request" />
 
-Nedugo nakon toga ću ja spojiti (eng. _merge_) izmene koje Ste napravili sa master granom ovog projekta. Dobićete obaveštenje na email kada izmene budu spojene.
+Nedugo nakon toga ću ja spojiti (eng. _merge_) izmene koje Ste napravili sa main granom ovog projekta. Dobićete obaveštenje na email kada izmene budu spojene.
 
 ## Šta dalje?
 

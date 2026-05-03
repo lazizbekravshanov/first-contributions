@@ -127,7 +127,7 @@ Send inn din pull request når du er klar.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="send inn pull request" />
 
-Snart vil jeg merge dine endringer inn i master branch av mitt prosjekt. Du vil motta en notifikasjon på epost når dine endringer er lagt til.
+Snart vil jeg merge dine endringer inn i main branch av mitt prosjekt. Du vil motta en notifikasjon på epost når dine endringer er lagt til.
 <br/><br/>
 
 ## Hva nå?

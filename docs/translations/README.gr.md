@@ -116,7 +116,7 @@ git push origin <add-your-name>
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="υποβάλετε το αίτημα έλξης" />
 
-Σύντομα θα ενσωματώσω όλες τις αλλαγές σας στο master branch του προγράμματος. Θα ειδοποιηθείτε με email όταν οι αλλαγές που κάνατε ενσωματωθούν.
+Σύντομα θα ενσωματώσω όλες τις αλλαγές σας στο main branch του προγράμματος. Θα ειδοποιηθείτε με email όταν οι αλλαγές που κάνατε ενσωματωθούν.
 
 ## Τι να κάνετε τώρα;
 

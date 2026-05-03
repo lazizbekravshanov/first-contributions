@@ -108,7 +108,7 @@ git push origin <add-your-branch-name>
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pull request ကို တင်သွင်းပါ" />
 
-သင့်ရဲ့ပြောင်းလဲမှုတွေကို ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပေးမှာဖြစ်ပါတယ်။ ဒါကြောင့် ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပြီးရင် သင့်မှာ notification email ရောက်လာပါလိမ့်မယ်။
+သင့်ရဲ့ပြောင်းလဲမှုတွေကို ဒီ project ရဲ့ main branch မှာ ထည့်သွင်းပေးမှာဖြစ်ပါတယ်။ ဒါကြောင့် ဒီ project ရဲ့ main branch မှာ ထည့်သွင်းပြီးရင် သင့်မှာ notification email ရောက်လာပါလိမ့်မယ်။
 
 ## ဒါပြီးရင် ဘာတွေဆက် လေ့လာမလဲ
 

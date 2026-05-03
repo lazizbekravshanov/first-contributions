@@ -101,7 +101,7 @@ Ahora envía el *pull request*.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Interfaz de pull request donde se comparan las ramas del fork con un mensaje verde que indica que se pueden fusionar automáticamente. Con el título de pull request y una sección para comentarios" />
 
-Pronto estaré combinando tus cambios (haciendo *merge*) con la rama master de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido combinados.
+Pronto estaré combinando tus cambios (haciendo *merge*) con la rama main de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido combinados.
 
 ## ¿Cuáles son los siguientes pasos?
 

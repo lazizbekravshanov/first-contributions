@@ -104,7 +104,7 @@ a zatim pošaljite zahtjev klikom na dugme _Create pull request_.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pošaljite pull request" />
 
-Nakon toga, vlasnik će spojiti promjene koje ste napravili sa master granom projekta. Dobit ćete mail potvrde kada se grane spoje.
+Nakon toga, vlasnik će spojiti promjene koje ste napravili sa main granom projekta. Dobit ćete mail potvrde kada se grane spoje.
 
 ## Što dalje?
 

@@ -102,7 +102,7 @@ a potom pošaljite zahtjev klikom na dugme _Create pull request_.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pošalji zahtjev za povlačenje" />
 
-Nakon toga, admin će spojiti promjene koje ste napravili sa master granom projekta. Dobićete mejl potvrde kada se grane spoje.
+Nakon toga, admin će spojiti promjene koje ste napravili sa main granom projekta. Dobićete mejl potvrde kada se grane spoje.
 
 ## Šta dalje?
 

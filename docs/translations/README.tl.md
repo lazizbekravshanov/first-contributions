@@ -103,7 +103,7 @@ I-submit ang pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="ipasa ang pull request" />
 
-Pagkalipas ng ilang oras ay isasama ko ang mga pagbabago na nagawa mo papunta sa master branch ng proyekto na ito. May makukuha kang notification email kapag ang mga pagbabago ay na-isama sa proyekto.
+Pagkalipas ng ilang oras ay isasama ko ang mga pagbabago na nagawa mo papunta sa main branch ng proyekto na ito. May makukuha kang notification email kapag ang mga pagbabago ay na-isama sa proyekto.
 
 ## Ano ang susunod na hakbang?
 

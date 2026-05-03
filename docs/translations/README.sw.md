@@ -109,7 +109,7 @@ Sasa tuma pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="tuma pull request" />
 
-Haitochukua muda mrefu nitaanza kuchukua mabadiliko yaliyofanyika na kuyapeleka kwenye master branch ya mradi huu. Utapokea email kukujulisha mara tu hatua hii itakapokamilika.
+Haitochukua muda mrefu nitaanza kuchukua mabadiliko yaliyofanyika na kuyapeleka kwenye main branch ya mradi huu. Utapokea email kukujulisha mara tu hatua hii itakapokamilika.
 
 ## Nini cha kufanya baada ya hapa?
 

@@ -107,7 +107,7 @@ Seuraavaksi suorita pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="lähetä pull request" />
 
-Seuraavaksi mergeän muutoksesi tämän projektin master-branchiin. Tulet saamaan ilmoituksen sähköpostiisi kun muutokset ovat mergetty.
+Seuraavaksi mergeän muutoksesi tämän projektin main-branchiin. Tulet saamaan ilmoituksen sähköpostiisi kun muutokset ovat mergetty.
 
 ## Mihin seuraavaksi?
 

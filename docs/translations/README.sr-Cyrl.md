@@ -224,7 +224,7 @@ git push -u origin your-branch-name
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="пошаљи pull request" />
 
-Недуго након тога ћу ја спојити (енг. _merge_) измене које Сте направили са master граном ovog пројекта. Добићете обавештење на email када измене буду спојене.
+Недуго након тога ћу ја спојити (енг. _merge_) измене које Сте направили са main граном ovog пројекта. Добићете обавештење на email када измене буду спојене.
 
 ## Шта даље?
 

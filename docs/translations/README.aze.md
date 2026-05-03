@@ -94,7 +94,7 @@ GitHub-dakı deponuza daxil olsanız, bir `Compare & pull request` düyməsini g
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="çəkiliş sorğusunu göndər" />
 
-Tezliklə bütün dəyişikliklərinizi bu layihənin master filialına birləşdirəcəyəm. Dəyişikliklər birləşdirildikdən sonra bildiriş e-poçtu alacaqsınız.
+Tezliklə bütün dəyişikliklərinizi bu layihənin main filialına birləşdirəcəyəm. Dəyişikliklər birləşdirildikdən sonra bildiriş e-poçtu alacaqsınız.
 
 ## Bundan sonra nə edə bilərəm?
 

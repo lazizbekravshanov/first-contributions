@@ -100,7 +100,7 @@ Tagad iesniedz pievienotās izmaiņas.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="iesniedziet pull request" />
 
-Jau pavisam drīz es pievienošu visas tavas izmaiņas šī projekta galvenajam (master) zaram. Tu saņemsi paziņojumu e-pastā, tiklīdz izmaiņas būs pievienotas.
+Jau pavisam drīz es pievienošu visas tavas izmaiņas šī projekta galvenajam (main) zaram. Tu saņemsi paziņojumu e-pastā, tiklīdz izmaiņas būs pievienotas.
 
 ## Un ko tagad?
 

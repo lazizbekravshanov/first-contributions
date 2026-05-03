@@ -106,7 +106,7 @@ Sada pošaljite vaš pull request.
 
 <img  style="float: right;"  src="assets/submit-pull-request.png"  alt="Pošaljite pull request"  />
 
-Uskoro, ja ću spojiti promjene koje ste napravili sa master granom repozitorijuma. Dobićete mejl potvrde kada se grane spoje.
+Uskoro, ja ću spojiti promjene koje ste napravili sa main granom repozitorijuma. Dobićete mejl potvrde kada se grane spoje.
 
 ## Šta dalje?
 

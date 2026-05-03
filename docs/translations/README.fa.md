@@ -106,7 +106,7 @@ git push origin <add-your-branch-name>
 
 <img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="ثبت درخواست کشش" />
 
-نهایتا، من تغییرات شما را به برنچ master پروژه اضافه (merge) خواهم کرد. بلافاصله پس از مرج شدن درخواست شما، یک ایمیل مبنی بر همین موضوع برای شما ارسال خواهد شد.
+نهایتا، من تغییرات شما را به برنچ main پروژه اضافه (merge) خواهم کرد. بلافاصله پس از مرج شدن درخواست شما، یک ایمیل مبنی بر همین موضوع برای شما ارسال خواهد شد.
 
 ## اقدامات بعدی
 

@@ -101,7 +101,7 @@ git push origin <add-your-name>
 
 Перш за ўсё перайдзіце ў асноўную галіну:
 ```bash
-git checkout master
+git checkout main
 ```
 Затым дадайце url майго рэпазітара ў полі `upstream remote url`:
 ```bash
@@ -114,11 +114,11 @@ git fetch upstream
 
 Такім чынам мы забралі ўсе змены ў маім адгалінаванні (upstream remote). Пасля, вам трэба зліць новую версію майго рэпазітара з вашай майстар-галіной.
 ```bash
-git rebase upstream/master
+git rebase upstream/main
 ```
 Так вы ўжываеце ўсе змены, якія вы падцягнулі да вашай майстар-галіны. Калі вы запушите зараз майстар-галіна, ваша адгалінаванне таксама будзе ўтрымліваць змены.
 ```bash
-git push origin master
+git push origin main
 ```
 Звярніце ўвагу, што вы робіце push ў выдаленай рэпазітар origin.
 

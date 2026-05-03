@@ -100,7 +100,7 @@ Sedaj izvedi submit svojega pull requesta.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pošlji pull request" />
 
-Kmalu bom združil tvoje spremembe v master vejo tega projekta. V svoj e-poštni nabiralnik boš dobil sporočilo, da so bile spremembe združene.
+Kmalu bom združil tvoje spremembe v main vejo tega projekta. V svoj e-poštni nabiralnik boš dobil sporočilo, da so bile spremembe združene.
 
 ##  Kako nadaljevati? ( Where to go from here? )
 

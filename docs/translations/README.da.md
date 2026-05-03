@@ -107,7 +107,7 @@ Indgiv nu din pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="indsend pull request" />
 
-Snart vil jeg merge dine ændringer ind i master branch'en af projektet. Du vil modtage en notifikation per email når dine ændringer er blevet merget.
+Snart vil jeg merge dine ændringer ind i main branch'en af projektet. Du vil modtage en notifikation per email når dine ændringer er blevet merget.
 
 ## Hvor til nu?
 

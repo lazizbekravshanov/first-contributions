@@ -107,7 +107,7 @@ Bây giờ, hãy gửi yêu cầu hợp nhất (pull request)
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="gửi yêu cầu hợp nhất" />
 
-Tôi sẽ sớm hợp nhất (merge) tất cả các thay đổi của bạn vào nhánh chính (master branch) của dự án này. Bạn sẽ nhận được email thông báo sau khi các thay đổi đã được gộp.
+Tôi sẽ sớm hợp nhất (merge) tất cả các thay đổi của bạn vào nhánh chính (main branch) của dự án này. Bạn sẽ nhận được email thông báo sau khi các thay đổi đã được gộp.
 
 ## Bước tiếp theo là gì?
 

@@ -108,7 +108,7 @@ Now submit th' pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="send yer pull request to the captain" />
 
-Soon I'll be mergin' all yer changes into th' master branch o' this project. Ye will get a notification email once th' changes 'ave been merged.
+Soon I'll be mergin' all yer changes into th' main branch o' this project. Ye will get a notification email once th' changes 'ave been merged.
 
 ## Where t' go from here?
 

@@ -98,7 +98,7 @@ git push origin <ຊື່ branch ຂອງທ່ານ>
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Mitte petitionem trahendi" />
 
-ເຮົາຈະທຳການ "Merge" ຫຼື ລວມຜົນງານທີ່ທ່ານໄດ້ປ່ຽນແປງ code ມາທີ່ master branch ຂອງໂປຣເຈັກນີ້, ທ່ານຈະໄດ້ຮັບອີເມວເມື່ອເຮົາໄດ້ທຳການ Merge ຜົນງານຂອງທ່ານສຳເລັດແລ້ວ.
+ເຮົາຈະທຳການ "Merge" ຫຼື ລວມຜົນງານທີ່ທ່ານໄດ້ປ່ຽນແປງ code ມາທີ່ main branch ຂອງໂປຣເຈັກນີ້, ທ່ານຈະໄດ້ຮັບອີເມວເມື່ອເຮົາໄດ້ທຳການ Merge ຜົນງານຂອງທ່ານສຳເລັດແລ້ວ.
 
 ## ຈະເຮັດຫຍັງຕໍ່ຫຼັງຈາກນີ້?
 ຍິນດີນຳ, ທ່ານໄດ້ປະຕິບັດຂັ້ນຕອນຂອງການເຮັດ contribute ຄື fork -> clone -> edit -> pull request ເຊິ່ງຂັ້ນຕອນຕ່າງໆເຫຼົ່ານີ້ເປັນສິ່ງທີ່ທ່ານຕອງໄດ້ພົບເມື່ອທ່ານເປັນ contributor

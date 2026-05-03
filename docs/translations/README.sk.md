@@ -102,7 +102,7 @@ Teraz vytvorte žiadosť o pretiahnutie vašej vetvy do originálneho repozitár
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme//submit-pull-request.png" alt="potvrďte pull request" />
 
-Čoskoro budú správcovia vykonávať zapracovanie vašich zmien do hlavnej (anglicky *master*) vetvy tohto projektu. Až sa do nej vaše zmeny dostanú, dostanete emailové upozornenie.
+Čoskoro budú správcovia vykonávať zapracovanie vašich zmien do hlavnej (anglicky *main*) vetvy tohto projektu. Až sa do nej vaše zmeny dostanú, dostanete emailové upozornenie.
 
 ## Kam ďalej?
 
